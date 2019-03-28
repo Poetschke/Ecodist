@@ -10,4 +10,4 @@ Choose the grid constant and select ME1SideA.xyz as point cloud. Confirm it.
 
 Now the programme should create a folder with the current date as name and the input and the output will be stored in it.
 
-!Notice!: The gird constant can cause long calculation times. In the given example the calculation on a standard PC varies from 7 seconds (for a=5 mm) to 35 minutes (for a=0.5 mm).
+!Notice!: The grid constant can cause long calculation times. In the given example the calculation on a standard PC varies from 7 seconds (for a=5 mm) to 35 minutes (for a=0.5 mm).
