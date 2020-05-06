@@ -7,8 +7,6 @@ If a Matlab licence is available just run the examples or use the files.
 
 If NO Matlab licence is available executables are provided. After installation try the example for the executable.
 
-A short tutorial is provided. 
-
 Download of the CNL raw-data: https://www.ufz.de/record/dmp/archive/7925/de/
 Download of the CNS raw-data: https://www.ufz.de/record/dmp/archive/7924/de/
 
