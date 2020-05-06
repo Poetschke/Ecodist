@@ -3,6 +3,14 @@ Import or create a geometry and run the code to compare different shear laws and
 
 How to use it?
 
-Download the folder /Ecodist_Executable_Version 28-02-2019 and do the installation. The Matlab Runtime environment will be installed. A license is not needed.
+If a Matlab licence is available just run the examples or use the files.
 
-A short tutorial is provided. Running the example might be a good start.
+If NO Matlab licence is available executables are provided. After installation try the example for the executable.
+
+A short tutorial is provided. 
+
+Download of the CNL raw-data: https://www.ufz.de/record/dmp/archive/7925/de/
+Download of the CNS raw-data: https://www.ufz.de/record/dmp/archive/7924/de/
+
+For further details about the GeomInt project see: https://www.ufz.de/geomint/
+A book about the whole project, an overview paper and also a paper about the results of this project part are in preparation.
